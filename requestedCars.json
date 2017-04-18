@@ -1,0 +1,30 @@
+{
+  "results": [
+      {
+        "id": "1",
+        "title": "2010 Nissan Dualis +2 Ti J10 Series II Auto AWD MY10",
+        "price": "$24,490",
+        "thumbnail": "https://carsales.li.csnstatic.com/carsales/car/dealer/cd5354384909418908085.jpg?aspect=centered&height=252&width=380"
+      }, {
+        "id": "2",
+        "title": "2012 Land Rover Defender Manual 4x4 MY12",
+        "price": "$45,000",
+        "thumbnail": "https://carsales.li.csnstatic.com/carsales/car/private/cp4982841542846685968.jpg?aspect=centered&height=252&width=380"
+      }, {
+        "id": "3",
+        "title": "2015 Nissan 370Z Z34 Auto MY15",
+        "price": "$48,987",
+        "thumbnail": "https://carsales.li.csnstatic.com/carsales/car/dealer/a3851a2eacb3a27dcf7e6fab14d5a697.jpg?aspect=centered&height=252&width=380"
+      }
+    ],
+
+    "savedCars": [
+      {
+        "id": "4",
+        "title": "2012 Mercedes-Benz C250 Blue EFFICIENCY Auto",
+        "price": "$49,500",
+        "thumbnail": "https://carsales.li.csnstatic.com/carsales/car/private/cp4624920815810249927.jpg?aspect=centered&height=252&width=380"
+      }
+    ]
+
+}
